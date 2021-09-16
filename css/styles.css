@@ -1,0 +1,130 @@
+body {
+  font-family: 'Spartan', sans-serif;
+}
+
+h1 {
+  width: 65%;
+  color: hsl(300, 43%, 22%);
+  font-weight: 700;
+}
+
+h5 {
+  color: hsl(0, 0%, 100%);
+  margin-top: 0;
+  margin-left: 90px;
+}
+
+p {
+  width: 80%;
+  margin-top: 30px;
+  margin-bottom: 40px;
+  margin-left: 35px;
+  /*margin-right: 45px;*/
+  font-size: 15px;
+  font-weight: 400;
+  color: hsl(303, 10%, 53%);
+}
+
+img {
+  border-radius: 50%;
+  width: 10%;
+  position: relative;
+  top: 35px;
+  left: 35px;
+}
+
+.topcontainer {
+  width: 30%;
+  position: absolute;
+  top: 110px;
+  left: 205px;
+}
+
+.first {
+  width: 99%;
+  color: hsl(303, 10%, 53%);
+  margin-left: 0;
+}
+
+.list {
+  position: absolute;
+  top: 110px;
+  right: 240px;
+}
+
+.rate1 {
+  background-color: hsl(300, 24%, 96%);
+  color: hsl(300, 43%, 22%);
+  border-radius: 10px;
+  font-size: 15px;
+  font-weight: 700;
+  padding: 10px;
+  margin: 10px;
+  position: relative;
+  right: 56px;
+}
+
+.rate2 {
+  background-color: hsl(300, 24%, 96%);
+  color: hsl(300, 43%, 22%);
+  border-radius: 10px;
+  font-size: 15px;
+  font-weight: 700;
+  padding: 10px;
+  margin: 10px;
+  position: relative;
+  left: 6px;
+
+}
+
+.rate3 {
+  background-color: hsl(300, 24%, 96%);
+  color: hsl(300, 43%, 22%);
+  border-radius: 10px;
+  font-size: 15px;
+  font-weight: 700;
+  padding: 10px;
+  margin: 10px;
+  position: relative;
+  left: 56px;
+}
+
+.space {
+  padding: 25px;
+}
+
+.users {
+  display: flex;
+  margin: auto;
+}
+
+.user1 {
+  width: 23%;
+  background-color: hsl(300, 43%, 22%);
+  border-radius: 10px;
+  position: absolute;
+  top: 400px;
+  left: 205px;
+}
+
+.user2 {
+  width: 23%;
+  background-color: hsl(300, 43%, 22%);
+  border-radius: 10px;
+  position: absolute;
+  top: 420px;
+  left: 600px;
+}
+
+.user3 {
+  width: 23%;
+  background-color: hsl(300, 43%, 22%);
+  border-radius: 10px;
+  position: absolute;
+  top: 440px;
+  right: 190px;
+}
+
+.color {
+  color: hsl(333, 80%, 67%);
+}
